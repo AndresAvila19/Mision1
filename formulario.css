@@ -1,0 +1,28 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-image: url(https://cdn.pixabay.com/photo/2016/03/26/13/09/cup-of-coffee-1280537_1280.jpg);
+    color: aliceblue;
+    font-size: 20px;
+}
+.formulario_mision{
+    text-align: left ;
+    align-items: center;
+
+}
+
+form{
+    background: #181b42;
+    padding: 30px;
+    font-family: cursive;
+    width: 1100px;
+    margin: 5%;
+}
+
+input [type="raido"] {
+    display: block;
+    font-size: 1.2em;
+    color: aliceblue;
+    font-size: 20px;
+    font-family: cursive;
+  }
