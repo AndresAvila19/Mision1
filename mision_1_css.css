@@ -1,0 +1,67 @@
+*{
+    object-fit: contain;
+    font-style: initial;
+}
+
+
+p{
+    display: flex;
+    justify-content: center;
+}
+.parrafo_uno{
+    justify-content: left;
+}
+.parrafo_dos{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.parrafo_tres{
+    display: flex;
+    justify-content: center;
+    font-style: oblique;
+}
+
+main{
+    display: grid;
+    justify-content: center;
+    
+}
+
+.imagenes{
+    display: flex;
+    justify-content: left;
+    object-fit: scale-down;
+}
+
+.img{
+    padding-left: 20px;
+    
+}
+
+.logos{
+    margin: 10px;
+}
+header{
+    width: 55vh;
+    height: 35vh;
+    display: grid;
+    margin-left: 410px;
+    
+    
+}
+
+.bottom{
+    border: solid 2px orange;
+    background-color: rgb(233, 233, 33);
+    bottom: unset;
+    display: flex;
+    letter-spacing: 2px;
+    word-spacing: 0.20em;
+    justify-content: center;
+    width: 280px;
+    height: 50px;
+    font-weight: bold;
+    margin-left: 150px;
+}
